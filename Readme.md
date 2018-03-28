@@ -10,16 +10,23 @@ This code uses a custom U-Net architecture for road segmentation in the image, i
 U-Net's prediction on the test data are shown below. The predicted pixels for road/lane are shown in road.
 
 #### Predictions for unmarked lane
-![image 1](https://github.com/rsenth/KITTI_road_segmentation/test_image/uu_000002.jpg "Logo Title Text 1")
+![](https://github.com/rsenth/KITTI_road_segmentation/blob/master/test_image/uu_000002.jpg "Logo Title Text 1")
 
-![image 2](https://github.com/rsenth/KITTI_road_segmentation/test_image/uu_000032.jpg "Logo Title Text 1")
+![](https://github.com/rsenth/KITTI_road_segmentation/blob/master/test_image/uu_000032.jpg "Logo Title Text 1")
+
+
+
 
 #### Predictions for marked lane
-![image 3](https://github.com/rsenth/KITTI_road_segmentation/test_image/um_000015.jpg "Logo Title Text 1")
+![](https://github.com/rsenth/KITTI_road_segmentation/blob/master/test_image/um_000015.jpg "Logo Title Text 1")
 
-![image 4](https://github.com/rsenth/KITTI_road_segmentation/test_image/um_000057.jpg "Logo Title Text 1")
+![](https://github.com/rsenth/KITTI_road_segmentation/blob/master/test_image/um_000057.jpg "Logo Title Text 1")
+
+
+
+
 
 #### Predictions for multiplane lanes
-![image 5](https://github.com/rsenth/KITTI_road_segmentation/test_image/umm_000017.jpg "Logo Title Text 1")
+![](https://github.com/rsenth/KITTI_road_segmentation/blob/master/test_image/umm_000017.jpg "Logo Title Text 1")
 
-![image 6](https://github.com/rsenth/KITTI_road_segmentation/test_image/umm_000056.jpg "Logo Title Text 1")
+![](https://github.com/rsenth/KITTI_road_segmentation/blob/master/test_image/umm_000056.jpg "Logo Title Text 1")
